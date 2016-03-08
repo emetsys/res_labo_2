@@ -1,0 +1,16 @@
+WRITE;BlockByBlockWithBufferedStream;500;10485760;17;;3,647058824
+WRITE;BlockByBlockWithBufferedStream;50;10485760;16;;24,625
+WRITE;BlockByBlockWithBufferedStream;5;10485760;65;;59,55384615
+WRITE;BlockByBlockWithBufferedStream;0;10485760;226;;81,35840708
+WRITE;BlockByBlockWithoutBufferedStream;500;10485760;62;;
+WRITE;BlockByBlockWithoutBufferedStream;50;10485760;394;;
+WRITE;BlockByBlockWithoutBufferedStream;5;10485760;3871;;
+WRITE;BlockByBlockWithoutBufferedStream;0;10485760;18387;;
+READ;BlockByBlockWithBufferedStream;500;10485760;13;;
+READ;BlockByBlockWithBufferedStream;50;10485760;17;;
+READ;BlockByBlockWithBufferedStream;5;10485760;39;;
+READ;BlockByBlockWithBufferedStream;0;10485760;57;;
+READ;BlockByBlockWithoutBufferedStream;500;10485760;28;;
+READ;BlockByBlockWithoutBufferedStream;50;10485760;254;;
+READ;BlockByBlockWithoutBufferedStream;5;10485760;2564;;
+READ;BlockByBlockWithoutBufferedStream;0;10485760;12267;;
